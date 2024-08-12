@@ -1,0 +1,401 @@
+PatientID,Age,CancerStage,CancerType,PrimaryTreatment,SurvivalStatus,RecurrenceStatus,GeographicRegion,AnnualIncome,HealthInsurance,DiagnosisDate,TreatmentEffectiveness
+1,63,III,Ductal,Radiation,1,1,Suburban,82824,Yes,2004-01-16,7
+2,76,III,Mixed,Surgery,0,1,Suburban,62752,Yes,2017-08-05,6
+3,53,II,Ductal,Hormone Therapy,1,0,Urban,52327,Yes,2009-04-30,9
+4,39,I,Mixed,Surgery,1,1,Urban,62070,Yes,2001-01-24,6
+5,67,II,Mixed,Surgery,0,0,Urban,60197,Yes,2002-09-26,5
+6,32,II,Mixed,Radiation,1,0,Suburban,22261,Yes,2012-08-25,10
+7,45,II,Lobular,Radiation,1,0,Rural,46512,Yes,2020-04-12,7
+8,63,IV,Lobular,Hormone Therapy,1,0,Urban,26716,No,2005-01-29,1
+9,82,II,Lobular,Radiation,1,0,Urban,48933,Yes,2015-05-04,7
+10,43,III,Mixed,Radiation,1,0,Suburban,24378,Yes,2001-10-20,3
+11,47,III,Lobular,Radiation,1,0,Rural,60583,Yes,2007-07-26,9
+12,35,III,Lobular,Surgery,1,0,Suburban,49033,No,2010-01-11,6
+13,35,II,Ductal,Hormone Therapy,0,0,Rural,44000,No,2013-08-26,9
+14,48,II,Lobular,Chemotherapy,1,0,Urban,95868,Yes,2004-01-21,5
+15,77,II,Lobular,Surgery,1,0,Urban,62604,Yes,2019-11-13,7
+16,60,I,Mixed,Radiation,0,0,Rural,88336,Yes,2010-03-20,4
+17,64,III,Mixed,Surgery,1,0,Suburban,93869,Yes,2019-11-19,7
+18,48,II,Mixed,Radiation,0,0,Urban,25410,Yes,2001-03-27,1
+19,27,I,Mixed,Radiation,0,0,Suburban,76044,Yes,2006-10-11,7
+20,46,III,Mixed,Surgery,1,0,Rural,83315,Yes,2008-10-27,8
+21,77,I,Mixed,Hormone Therapy,0,1,Suburban,91344,Yes,2004-03-17,5
+22,26,IV,Lobular,Radiation,1,0,Suburban,26796,No,2020-08-26,2
+23,48,IV,Mixed,Hormone Therapy,1,0,Urban,74245,Yes,2008-06-20,5
+24,68,IV,Mixed,Chemotherapy,1,1,Suburban,63056,Yes,2002-06-01,6
+25,54,II,Ductal,Radiation,1,1,Suburban,37709,Yes,2012-01-26,2
+26,62,I,Lobular,Hormone Therapy,0,1,Rural,78557,No,2011-02-20,6
+27,26,IV,Lobular,Hormone Therapy,1,1,Rural,37543,Yes,2013-07-06,6
+28,84,II,Lobular,Chemotherapy,1,0,Rural,57418,No,2007-01-10,1
+29,45,IV,Mixed,Hormone Therapy,1,0,Urban,36724,No,2008-12-21,1
+30,57,IV,Mixed,Hormone Therapy,0,0,Suburban,23828,Yes,2001-01-09,10
+31,36,III,Mixed,Chemotherapy,1,0,Suburban,37087,Yes,2012-06-12,3
+32,82,II,Ductal,Radiation,1,0,Suburban,32605,No,2010-02-14,10
+33,46,II,Mixed,Hormone Therapy,1,0,Suburban,51337,Yes,2008-05-20,10
+34,68,III,Ductal,Hormone Therapy,1,0,Rural,25482,No,2012-11-03,3
+35,49,II,Lobular,Hormone Therapy,1,1,Urban,85333,No,2008-11-24,4
+36,73,I,Mixed,Surgery,1,1,Suburban,70952,Yes,2014-08-04,2
+37,51,II,Ductal,Chemotherapy,1,0,Urban,25463,Yes,2012-07-31,9
+38,83,IV,Ductal,Surgery,0,1,Urban,90448,No,2012-06-25,10
+39,66,III,Mixed,Chemotherapy,1,0,Suburban,24648,Yes,2019-12-18,7
+40,52,II,Lobular,Radiation,1,1,Suburban,53623,Yes,2000-04-22,7
+41,84,I,Lobular,Radiation,1,0,Urban,79156,Yes,2014-01-18,6
+42,40,III,Lobular,Hormone Therapy,1,1,Urban,55634,Yes,2008-10-02,3
+43,39,IV,Ductal,Chemotherapy,0,0,Suburban,64602,No,2006-07-06,6
+44,71,I,Ductal,Radiation,1,0,Urban,69334,No,2005-04-08,8
+45,75,II,Ductal,Chemotherapy,0,0,Urban,88648,Yes,2020-05-25,8
+46,68,III,Ductal,Radiation,1,0,Urban,42054,Yes,2000-05-19,9
+47,79,III,Lobular,Surgery,0,0,Urban,90028,Yes,2003-11-25,1
+48,76,III,Mixed,Radiation,1,0,Urban,42207,No,2008-01-28,1
+49,81,III,Ductal,Surgery,1,0,Urban,41386,Yes,2008-09-03,3
+50,27,II,Ductal,Radiation,1,0,Urban,79518,Yes,2001-05-31,3
+51,61,II,Lobular,Hormone Therapy,0,0,Rural,72781,Yes,2007-03-01,10
+52,75,III,Mixed,Surgery,0,1,Suburban,72780,Yes,2016-07-18,8
+53,31,III,Mixed,Radiation,0,0,Suburban,81440,No,2019-02-19,10
+54,45,III,Lobular,Hormone Therapy,1,0,Urban,64199,Yes,2019-10-24,1
+55,33,IV,Lobular,Surgery,0,0,Urban,81035,Yes,2017-02-21,2
+56,63,II,Mixed,Hormone Therapy,1,1,Suburban,28210,Yes,2002-06-06,2
+57,42,II,Ductal,Chemotherapy,1,0,Urban,64363,No,2019-10-14,3
+58,28,III,Mixed,Chemotherapy,0,1,Urban,98279,Yes,2008-07-01,6
+59,49,III,Lobular,Surgery,1,1,Suburban,80348,Yes,2014-11-20,1
+60,84,III,Ductal,Radiation,1,0,Suburban,75284,Yes,2000-02-19,2
+61,38,III,Ductal,Surgery,0,0,Urban,92124,No,2010-10-26,1
+62,74,III,Lobular,Hormone Therapy,1,1,Urban,88847,Yes,2009-09-30,5
+63,82,II,Lobular,Radiation,1,1,Suburban,42432,Yes,2000-01-19,7
+64,33,II,Lobular,Chemotherapy,1,0,Urban,84089,Yes,2013-03-14,8
+65,50,I,Mixed,Radiation,1,0,Suburban,75398,Yes,2017-05-11,10
+66,77,II,Mixed,Chemotherapy,1,1,Suburban,23321,Yes,2004-01-13,1
+67,26,I,Ductal,Radiation,1,0,Rural,57383,No,2011-02-13,7
+68,44,II,Lobular,Radiation,1,1,Urban,98682,Yes,2007-02-19,5
+69,52,II,Ductal,Radiation,1,0,Rural,99190,Yes,2001-03-27,10
+70,71,II,Ductal,Hormone Therapy,1,0,Suburban,72893,Yes,2017-08-11,1
+71,84,II,Ductal,Hormone Therapy,1,1,Urban,55820,Yes,2014-05-27,3
+72,31,I,Ductal,Surgery,0,0,Urban,86262,Yes,2014-03-31,7
+73,68,I,Lobular,Surgery,0,0,Suburban,23760,No,2010-04-23,10
+74,32,III,Ductal,Chemotherapy,0,0,Urban,42190,Yes,2006-09-04,1
+75,71,II,Lobular,Hormone Therapy,1,0,Urban,87411,Yes,2011-10-20,7
+76,59,I,Lobular,Chemotherapy,0,0,Urban,43377,Yes,2004-03-29,5
+77,38,II,Mixed,Surgery,1,0,Rural,66737,Yes,2017-05-29,1
+78,41,III,Lobular,Chemotherapy,0,0,Suburban,89569,Yes,2009-07-06,1
+79,60,II,Mixed,Surgery,1,1,Suburban,58211,Yes,2000-05-07,1
+80,74,III,Lobular,Hormone Therapy,0,0,Urban,23744,No,2016-04-07,9
+81,64,I,Lobular,Radiation,1,0,Urban,44995,Yes,2020-12-05,3
+82,28,I,Lobular,Hormone Therapy,1,0,Suburban,36977,Yes,2013-04-17,5
+83,26,II,Mixed,Chemotherapy,1,1,Urban,54542,No,2017-12-04,10
+84,30,II,Mixed,Chemotherapy,1,1,Urban,30651,Yes,2019-09-14,9
+85,78,III,Ductal,Hormone Therapy,0,0,Suburban,98931,Yes,2016-03-08,6
+86,66,III,Mixed,Hormone Therapy,1,0,Rural,36715,Yes,2017-09-29,9
+87,28,IV,Mixed,Surgery,0,0,Suburban,64409,Yes,2019-02-04,8
+88,78,II,Mixed,Chemotherapy,1,1,Suburban,44306,Yes,2007-07-24,8
+89,53,II,Mixed,Chemotherapy,0,1,Rural,39086,Yes,2012-03-14,1
+90,42,III,Ductal,Hormone Therapy,1,0,Urban,34376,Yes,2012-10-08,9
+91,50,II,Mixed,Radiation,1,1,Suburban,81350,No,2003-11-16,6
+92,68,II,Lobular,Chemotherapy,0,1,Rural,91425,Yes,2017-06-01,9
+93,58,I,Lobular,Radiation,0,0,Urban,56636,Yes,2015-08-03,3
+94,34,I,Mixed,Hormone Therapy,0,0,Suburban,71649,Yes,2015-11-06,3
+95,60,IV,Mixed,Hormone Therapy,1,0,Suburban,54610,Yes,2000-07-20,6
+96,38,III,Lobular,Surgery,1,0,Suburban,30058,Yes,2016-11-12,9
+97,55,III,Lobular,Chemotherapy,0,1,Suburban,94637,No,2006-06-27,7
+98,72,II,Ductal,Radiation,1,0,Rural,98033,No,2001-06-01,3
+99,39,I,Lobular,Surgery,0,0,Suburban,90194,Yes,2014-11-27,3
+100,32,I,Lobular,Chemotherapy,1,0,Urban,96917,No,2015-02-22,2
+101,38,II,Mixed,Surgery,0,0,Rural,84200,Yes,2003-09-03,9
+102,47,II,Lobular,Hormone Therapy,0,0,Urban,66619,Yes,2013-01-28,3
+103,84,III,Ductal,Chemotherapy,0,0,Urban,37154,Yes,2005-06-11,5
+104,81,III,Lobular,Surgery,1,0,Urban,39539,No,2019-11-06,9
+105,64,II,Mixed,Surgery,1,0,Urban,80058,Yes,2009-09-15,8
+106,45,IV,Mixed,Radiation,1,0,Urban,82068,Yes,2015-04-19,2
+107,40,III,Lobular,Surgery,0,0,Rural,97313,No,2012-05-17,3
+108,69,II,Mixed,Chemotherapy,1,0,Suburban,50373,Yes,2016-08-08,2
+109,42,III,Ductal,Chemotherapy,1,0,Suburban,53154,Yes,2010-05-30,8
+110,71,II,Ductal,Radiation,0,0,Urban,26031,Yes,2015-11-26,6
+111,77,II,Lobular,Chemotherapy,1,0,Rural,91975,Yes,2008-12-19,6
+112,48,II,Lobular,Hormone Therapy,1,0,Rural,42785,Yes,2010-01-02,9
+113,50,III,Lobular,Chemotherapy,0,0,Suburban,98928,Yes,2019-08-11,8
+114,49,I,Mixed,Chemotherapy,1,1,Urban,48669,Yes,2006-08-31,4
+115,84,I,Ductal,Surgery,1,0,Urban,22282,No,2013-05-05,4
+116,84,I,Ductal,Surgery,1,0,Urban,54624,Yes,2017-02-01,9
+117,84,I,Mixed,Chemotherapy,0,1,Urban,68438,Yes,2020-07-26,1
+118,69,III,Ductal,Radiation,0,0,Urban,87534,Yes,2016-03-19,2
+119,65,III,Lobular,Surgery,1,0,Rural,51705,Yes,2000-07-26,2
+120,53,II,Lobular,Radiation,1,1,Urban,58244,Yes,2015-06-04,6
+121,39,I,Lobular,Chemotherapy,1,1,Urban,94964,Yes,2015-10-04,4
+122,69,II,Ductal,Chemotherapy,1,0,Urban,57437,Yes,2007-03-18,10
+123,25,II,Lobular,Hormone Therapy,1,0,Urban,97872,Yes,2017-04-10,3
+124,49,I,Mixed,Surgery,1,0,Urban,94878,Yes,2011-04-10,3
+125,31,II,Mixed,Chemotherapy,1,0,Urban,92982,Yes,2000-06-02,3
+126,33,II,Ductal,Hormone Therapy,0,0,Urban,70583,Yes,2016-08-02,6
+127,48,III,Mixed,Surgery,1,0,Suburban,58392,Yes,2020-10-28,8
+128,25,III,Mixed,Chemotherapy,1,0,Rural,27461,Yes,2009-03-20,7
+129,68,I,Ductal,Chemotherapy,1,0,Urban,30516,Yes,2011-10-24,4
+130,32,II,Lobular,Surgery,0,1,Urban,99285,Yes,2013-01-16,4
+131,48,III,Lobular,Surgery,0,0,Rural,37514,No,2004-02-27,10
+132,35,II,Lobular,Surgery,0,0,Urban,56268,Yes,2017-06-13,2
+133,75,III,Ductal,Chemotherapy,1,0,Urban,56788,Yes,2016-11-15,1
+134,41,III,Mixed,Chemotherapy,1,0,Rural,95749,No,2007-02-13,9
+135,32,I,Lobular,Hormone Therapy,0,0,Urban,81049,Yes,2013-10-24,2
+136,59,I,Lobular,Radiation,1,0,Suburban,82493,Yes,2006-01-04,8
+137,59,III,Ductal,Surgery,1,0,Suburban,56027,Yes,2019-12-02,9
+138,57,I,Lobular,Chemotherapy,1,0,Urban,62849,Yes,2012-04-25,4
+139,83,II,Ductal,Chemotherapy,0,0,Urban,37858,No,2012-11-04,8
+140,29,IV,Mixed,Surgery,1,0,Suburban,99003,Yes,2009-09-24,9
+141,66,II,Ductal,Radiation,1,0,Urban,72395,No,2006-08-11,10
+142,63,II,Ductal,Surgery,0,0,Urban,59758,Yes,2015-02-24,10
+143,82,III,Ductal,Radiation,0,1,Suburban,74312,Yes,2020-06-20,5
+144,65,II,Ductal,Chemotherapy,1,0,Suburban,88670,Yes,2007-10-20,7
+145,52,II,Mixed,Radiation,1,0,Urban,35434,Yes,2019-05-02,10
+146,31,IV,Mixed,Hormone Therapy,0,0,Rural,84047,Yes,2014-05-20,4
+147,33,II,Lobular,Chemotherapy,1,0,Urban,67775,No,2004-10-08,1
+148,32,IV,Mixed,Hormone Therapy,1,1,Rural,95769,Yes,2003-07-30,3
+149,36,IV,Mixed,Surgery,1,0,Suburban,86677,Yes,2010-07-16,5
+150,58,I,Lobular,Surgery,1,1,Suburban,65734,Yes,2011-05-31,3
+151,57,I,Mixed,Surgery,1,0,Urban,60603,Yes,2012-07-12,7
+152,72,I,Ductal,Radiation,1,0,Rural,96708,Yes,2020-08-02,9
+153,79,I,Ductal,Chemotherapy,1,0,Urban,88803,Yes,2012-09-29,6
+154,47,I,Lobular,Surgery,1,1,Suburban,59332,Yes,2020-07-07,10
+155,48,III,Lobular,Surgery,1,0,Urban,41312,Yes,2013-04-02,1
+156,61,I,Lobular,Chemotherapy,1,0,Urban,64179,Yes,2015-03-25,7
+157,59,II,Ductal,Surgery,0,1,Urban,91442,No,2011-06-27,3
+158,68,III,Mixed,Hormone Therapy,1,0,Rural,60379,No,2014-03-06,5
+159,64,I,Ductal,Chemotherapy,1,0,Rural,37297,Yes,2006-12-30,10
+160,46,III,Lobular,Chemotherapy,1,0,Urban,22011,Yes,2006-04-24,4
+161,51,II,Mixed,Chemotherapy,1,1,Urban,64014,No,2012-05-05,10
+162,59,I,Mixed,Hormone Therapy,1,0,Suburban,31738,Yes,2020-11-10,5
+163,25,III,Ductal,Chemotherapy,0,1,Urban,67498,No,2002-12-24,5
+164,59,III,Lobular,Hormone Therapy,0,1,Urban,31120,Yes,2007-03-27,6
+165,61,III,Ductal,Chemotherapy,0,0,Suburban,28767,Yes,2003-03-23,10
+166,71,III,Mixed,Radiation,0,0,Suburban,42852,No,2016-09-17,10
+167,38,III,Ductal,Surgery,1,0,Rural,99239,No,2017-07-19,6
+168,27,II,Ductal,Radiation,1,0,Urban,20929,Yes,2013-06-17,8
+169,25,I,Lobular,Surgery,0,1,Urban,97487,Yes,2019-11-03,8
+170,29,III,Lobular,Hormone Therapy,1,1,Suburban,37438,Yes,2020-06-26,9
+171,50,III,Mixed,Radiation,0,0,Suburban,68515,Yes,2013-01-09,8
+172,79,IV,Ductal,Chemotherapy,1,0,Suburban,25744,Yes,2008-03-13,2
+173,38,II,Ductal,Surgery,1,0,Suburban,62417,Yes,2001-07-13,10
+174,63,II,Ductal,Surgery,0,0,Urban,27069,No,2008-02-12,1
+175,51,III,Mixed,Radiation,1,0,Rural,62359,Yes,2019-04-05,10
+176,33,II,Mixed,Hormone Therapy,0,0,Urban,39799,Yes,2003-06-25,2
+177,39,IV,Lobular,Radiation,1,0,Urban,90188,Yes,2004-12-18,2
+178,39,III,Lobular,Hormone Therapy,1,0,Suburban,27597,Yes,2007-12-25,3
+179,50,II,Lobular,Hormone Therapy,0,0,Urban,67093,Yes,2001-09-01,10
+180,66,III,Ductal,Surgery,1,0,Urban,57226,Yes,2006-09-27,7
+181,84,III,Ductal,Radiation,0,0,Rural,92127,Yes,2011-04-13,2
+182,37,I,Lobular,Radiation,0,1,Urban,97362,No,2016-10-07,1
+183,75,IV,Ductal,Hormone Therapy,1,0,Suburban,46417,No,2000-10-10,6
+184,56,II,Lobular,Radiation,1,1,Urban,38693,Yes,2015-03-31,9
+185,63,III,Mixed,Chemotherapy,1,1,Suburban,99674,No,2008-01-07,3
+186,73,II,Lobular,Chemotherapy,1,0,Urban,73161,Yes,2012-01-14,6
+187,76,III,Mixed,Radiation,1,1,Urban,22169,Yes,2002-12-27,3
+188,56,II,Ductal,Radiation,0,0,Rural,42052,Yes,2014-01-13,1
+189,28,I,Lobular,Hormone Therapy,1,0,Suburban,91849,Yes,2002-03-27,5
+190,54,IV,Ductal,Chemotherapy,1,0,Urban,93851,Yes,2019-12-31,10
+191,61,I,Mixed,Chemotherapy,1,0,Urban,28036,No,2020-01-27,4
+192,47,II,Mixed,Surgery,1,0,Rural,51778,Yes,2000-03-23,7
+193,63,IV,Mixed,Hormone Therapy,1,0,Suburban,47734,No,2005-04-04,6
+194,69,IV,Ductal,Surgery,1,0,Suburban,43173,Yes,2009-07-23,10
+195,39,II,Ductal,Chemotherapy,1,0,Suburban,50403,Yes,2008-08-10,7
+196,67,III,Ductal,Hormone Therapy,1,0,Urban,86321,No,2020-04-09,5
+197,53,II,Ductal,Radiation,1,1,Urban,91675,Yes,2005-09-24,4
+198,60,II,Mixed,Hormone Therapy,1,0,Suburban,26344,Yes,2012-11-26,7
+199,37,II,Mixed,Radiation,1,0,Urban,38800,Yes,2019-05-12,7
+200,56,III,Lobular,Radiation,0,1,Urban,45372,Yes,2017-07-15,6
+201,31,III,Lobular,Hormone Therapy,0,0,Rural,81516,Yes,2000-06-24,8
+202,83,III,Ductal,Radiation,1,0,Suburban,40538,Yes,2014-06-21,4
+203,75,III,Mixed,Surgery,0,0,Suburban,83918,Yes,2007-05-28,10
+204,46,I,Mixed,Chemotherapy,1,0,Suburban,34973,No,2013-07-08,5
+205,52,II,Mixed,Radiation,0,1,Suburban,91155,Yes,2001-01-04,4
+206,26,I,Lobular,Surgery,1,0,Urban,79500,Yes,2004-12-23,1
+207,66,II,Lobular,Radiation,1,1,Urban,56575,Yes,2005-10-02,8
+208,69,II,Mixed,Chemotherapy,1,0,Urban,62261,No,2013-02-06,1
+209,81,III,Mixed,Surgery,0,0,Urban,47716,Yes,2009-07-22,5
+210,77,II,Mixed,Chemotherapy,1,0,Suburban,23236,Yes,2004-11-14,6
+211,30,I,Lobular,Chemotherapy,1,0,Urban,35848,Yes,2003-09-26,6
+212,52,I,Mixed,Surgery,0,0,Urban,22352,Yes,2019-12-21,5
+213,52,III,Mixed,Surgery,1,1,Urban,21932,No,2015-02-19,3
+214,68,III,Ductal,Surgery,1,1,Urban,96449,Yes,2012-03-20,5
+215,68,I,Ductal,Hormone Therapy,1,0,Urban,28556,Yes,2009-02-24,8
+216,44,I,Lobular,Surgery,1,1,Urban,25498,Yes,2012-12-22,2
+217,54,III,Mixed,Surgery,0,1,Urban,96118,Yes,2010-01-24,6
+218,35,I,Mixed,Surgery,1,0,Urban,70098,No,2006-08-23,9
+219,82,III,Ductal,Surgery,1,0,Urban,84386,No,2000-03-13,8
+220,79,III,Lobular,Radiation,0,0,Suburban,29569,Yes,2008-02-10,8
+221,52,I,Ductal,Hormone Therapy,1,0,Urban,76882,No,2014-09-11,8
+222,49,I,Ductal,Chemotherapy,1,0,Urban,90393,Yes,2002-05-09,7
+223,63,IV,Ductal,Surgery,0,0,Suburban,20340,Yes,2010-07-23,8
+224,57,II,Ductal,Radiation,1,1,Urban,63949,Yes,2011-05-01,6
+225,25,II,Mixed,Radiation,1,0,Rural,82443,Yes,2006-08-21,2
+226,81,III,Mixed,Radiation,1,0,Suburban,94027,Yes,2002-11-30,2
+227,51,IV,Ductal,Chemotherapy,1,1,Urban,20138,No,2006-01-26,8
+228,81,IV,Lobular,Surgery,0,1,Suburban,20358,Yes,2010-12-31,1
+229,76,III,Lobular,Hormone Therapy,1,0,Urban,95250,No,2006-03-09,6
+230,37,II,Lobular,Hormone Therapy,1,1,Suburban,50654,Yes,2015-05-14,6
+231,65,I,Lobular,Radiation,1,0,Urban,45879,No,2010-04-09,4
+232,27,III,Ductal,Chemotherapy,1,0,Rural,75778,Yes,2005-09-17,10
+233,63,II,Mixed,Chemotherapy,1,0,Urban,57772,Yes,2001-01-03,3
+234,30,II,Lobular,Chemotherapy,1,0,Suburban,78478,Yes,2007-09-05,3
+235,32,IV,Ductal,Hormone Therapy,1,0,Suburban,84353,No,2000-05-30,1
+236,51,I,Lobular,Radiation,1,0,Urban,46762,Yes,2003-02-08,3
+237,33,II,Lobular,Surgery,1,0,Urban,33283,No,2015-05-01,4
+238,61,I,Ductal,Hormone Therapy,1,0,Suburban,83922,Yes,2015-03-18,5
+239,57,II,Mixed,Radiation,1,0,Rural,59420,Yes,2014-02-22,3
+240,75,I,Mixed,Radiation,0,1,Urban,75568,No,2014-01-06,6
+241,66,I,Ductal,Surgery,0,0,Suburban,40219,Yes,2015-08-04,5
+242,68,I,Mixed,Surgery,1,0,Rural,77169,Yes,2007-08-16,3
+243,48,III,Ductal,Surgery,1,0,Rural,94965,Yes,2016-10-19,6
+244,39,III,Ductal,Chemotherapy,1,0,Urban,66840,No,2015-01-07,6
+245,83,II,Ductal,Surgery,1,0,Suburban,64695,Yes,2011-05-27,8
+246,78,IV,Mixed,Radiation,1,1,Urban,97988,No,2006-06-04,2
+247,56,II,Ductal,Surgery,1,0,Rural,78342,Yes,2013-10-18,1
+248,56,II,Lobular,Radiation,1,0,Urban,38951,No,2013-05-29,4
+249,48,III,Mixed,Hormone Therapy,1,0,Urban,21307,No,2017-08-18,7
+250,65,II,Mixed,Chemotherapy,1,0,Suburban,55428,Yes,2006-02-28,10
+251,76,IV,Mixed,Hormone Therapy,1,0,Urban,95774,Yes,2000-03-01,3
+252,73,I,Mixed,Hormone Therapy,1,0,Rural,58975,Yes,2013-10-20,3
+253,73,IV,Lobular,Radiation,0,0,Rural,21140,Yes,2008-03-29,5
+254,82,I,Mixed,Hormone Therapy,0,0,Suburban,44842,Yes,2010-09-06,5
+255,76,III,Mixed,Radiation,0,0,Urban,46421,Yes,2003-08-30,10
+256,36,II,Ductal,Surgery,1,0,Suburban,21708,Yes,2003-03-30,3
+257,63,IV,Mixed,Surgery,1,1,Urban,23630,Yes,2012-02-13,9
+258,26,I,Lobular,Radiation,1,1,Urban,39595,Yes,2004-03-31,4
+259,27,II,Lobular,Surgery,1,1,Rural,96021,Yes,2012-02-20,3
+260,73,IV,Lobular,Chemotherapy,0,0,Urban,48308,No,2004-06-17,2
+261,61,II,Lobular,Hormone Therapy,1,0,Urban,64789,Yes,2003-08-20,10
+262,73,III,Mixed,Chemotherapy,0,0,Rural,75690,Yes,2004-03-06,9
+263,80,III,Mixed,Hormone Therapy,1,0,Urban,46086,Yes,2004-07-31,4
+264,41,II,Lobular,Surgery,0,0,Urban,36859,No,2003-09-23,3
+265,83,III,Lobular,Chemotherapy,1,0,Rural,27684,No,2004-04-22,7
+266,73,II,Mixed,Surgery,0,0,Urban,21207,No,2007-05-10,8
+267,26,IV,Lobular,Hormone Therapy,1,1,Suburban,66099,No,2011-12-19,2
+268,26,I,Ductal,Radiation,1,0,Rural,87496,Yes,2014-06-19,7
+269,52,II,Lobular,Radiation,1,0,Rural,86093,No,2020-11-01,5
+270,78,IV,Lobular,Chemotherapy,1,0,Suburban,49689,Yes,2006-06-24,5
+271,47,III,Ductal,Surgery,1,1,Urban,68651,Yes,2018-06-07,3
+272,61,II,Ductal,Surgery,1,0,Urban,33893,No,2018-03-14,5
+273,56,III,Mixed,Chemotherapy,1,0,Rural,86418,Yes,2010-04-15,2
+274,57,II,Mixed,Radiation,1,0,Rural,80011,Yes,2006-08-31,4
+275,25,I,Ductal,Hormone Therapy,1,0,Suburban,58635,Yes,2005-06-16,6
+276,43,II,Ductal,Chemotherapy,1,0,Urban,76115,Yes,2002-05-19,1
+277,26,II,Mixed,Hormone Therapy,0,1,Urban,98405,Yes,2019-02-06,10
+278,77,II,Lobular,Radiation,1,0,Urban,92702,Yes,2002-10-11,4
+279,68,I,Ductal,Surgery,1,0,Suburban,98518,Yes,2005-03-26,6
+280,50,IV,Mixed,Radiation,1,0,Urban,92805,Yes,2001-08-25,9
+281,56,IV,Lobular,Chemotherapy,1,0,Rural,78954,No,2010-06-18,2
+282,30,III,Ductal,Surgery,1,0,Suburban,48064,Yes,2016-02-21,7
+283,56,II,Lobular,Chemotherapy,1,0,Urban,99063,Yes,2001-11-21,6
+284,79,II,Mixed,Chemotherapy,0,0,Suburban,22454,No,2001-05-08,2
+285,28,III,Ductal,Radiation,1,0,Urban,40878,No,2001-05-04,8
+286,79,III,Lobular,Chemotherapy,1,0,Suburban,71098,Yes,2018-10-17,7
+287,35,I,Ductal,Radiation,1,0,Suburban,82154,Yes,2019-10-28,5
+288,80,IV,Lobular,Surgery,1,0,Rural,32991,No,2006-12-31,5
+289,83,III,Mixed,Radiation,0,1,Rural,88344,No,2012-04-12,7
+290,41,IV,Mixed,Surgery,1,0,Urban,56593,Yes,2000-10-21,9
+291,62,III,Ductal,Radiation,1,0,Urban,56304,Yes,2015-01-10,9
+292,48,III,Lobular,Hormone Therapy,1,1,Suburban,50386,Yes,2011-01-10,9
+293,29,II,Ductal,Hormone Therapy,1,0,Urban,75220,Yes,2007-10-14,6
+294,76,IV,Ductal,Chemotherapy,1,1,Urban,89338,Yes,2007-12-22,10
+295,58,III,Lobular,Radiation,1,0,Urban,41083,Yes,2004-09-13,6
+296,30,I,Lobular,Radiation,1,1,Suburban,38354,Yes,2007-02-09,3
+297,46,I,Lobular,Surgery,0,0,Urban,42190,Yes,2012-12-27,1
+298,35,II,Mixed,Chemotherapy,1,0,Suburban,26142,Yes,2005-02-16,7
+299,72,III,Ductal,Radiation,0,0,Rural,48398,No,2012-10-07,4
+300,40,IV,Ductal,Chemotherapy,1,1,Urban,71971,Yes,2008-12-02,1
+301,57,I,Mixed,Hormone Therapy,1,1,Urban,61862,Yes,2019-02-26,8
+302,33,II,Lobular,Radiation,1,0,Urban,73410,No,2007-09-18,6
+303,84,II,Mixed,Radiation,1,0,Rural,39503,Yes,2001-03-20,6
+304,83,IV,Mixed,Chemotherapy,0,1,Urban,68456,Yes,2009-12-20,2
+305,30,III,Mixed,Radiation,1,0,Urban,28016,Yes,2012-03-16,1
+306,40,III,Ductal,Chemotherapy,1,1,Urban,22384,Yes,2017-02-26,2
+307,53,II,Mixed,Radiation,1,1,Suburban,82320,No,2014-07-13,4
+308,27,II,Ductal,Surgery,1,0,Urban,35072,Yes,2002-01-11,2
+309,44,II,Ductal,Chemotherapy,0,0,Suburban,60510,Yes,2005-08-03,1
+310,84,I,Ductal,Radiation,1,0,Rural,68933,Yes,2001-11-10,7
+311,83,III,Lobular,Hormone Therapy,1,0,Urban,41826,Yes,2006-10-03,8
+312,60,III,Ductal,Radiation,1,1,Rural,88026,No,2010-02-14,6
+313,43,IV,Ductal,Hormone Therapy,0,0,Urban,45518,Yes,2020-04-24,4
+314,50,IV,Lobular,Hormone Therapy,0,1,Rural,44045,Yes,2015-09-17,6
+315,27,II,Ductal,Surgery,1,0,Suburban,70876,Yes,2015-07-09,3
+316,43,III,Mixed,Chemotherapy,1,1,Rural,71919,Yes,2003-09-20,8
+317,44,IV,Mixed,Radiation,1,0,Urban,47103,Yes,2017-01-26,10
+318,56,III,Ductal,Surgery,1,0,Urban,56188,Yes,2000-03-03,2
+319,31,II,Lobular,Radiation,1,0,Urban,25845,Yes,2007-01-03,5
+320,76,II,Mixed,Hormone Therapy,0,1,Urban,56674,Yes,2014-05-25,1
+321,65,I,Lobular,Chemotherapy,1,0,Urban,39337,Yes,2010-04-27,6
+322,57,IV,Lobular,Radiation,1,1,Urban,42313,Yes,2020-02-17,2
+323,64,III,Mixed,Radiation,1,0,Urban,46943,Yes,2014-07-30,4
+324,63,II,Lobular,Hormone Therapy,0,0,Urban,97949,No,2018-12-07,6
+325,42,III,Mixed,Radiation,1,0,Rural,20276,Yes,2020-03-17,10
+326,64,III,Lobular,Radiation,1,0,Urban,71151,Yes,2011-11-30,8
+327,25,II,Mixed,Hormone Therapy,1,0,Urban,37611,Yes,2000-05-14,8
+328,35,I,Ductal,Surgery,1,1,Urban,31944,Yes,2009-12-23,6
+329,52,III,Mixed,Hormone Therapy,1,1,Urban,72887,Yes,2013-08-10,4
+330,81,II,Mixed,Surgery,1,1,Rural,69847,Yes,2013-06-18,8
+331,49,III,Mixed,Chemotherapy,1,1,Urban,78653,Yes,2005-11-05,8
+332,74,II,Mixed,Surgery,1,0,Suburban,76622,Yes,2019-07-11,10
+333,47,III,Lobular,Surgery,1,0,Rural,47810,No,2008-12-22,1
+334,55,II,Ductal,Chemotherapy,1,0,Rural,97842,No,2019-12-23,4
+335,54,II,Mixed,Surgery,1,1,Suburban,30503,Yes,2002-04-02,4
+336,66,III,Lobular,Hormone Therapy,0,0,Rural,56976,Yes,2008-06-01,7
+337,59,II,Ductal,Surgery,1,0,Rural,31590,Yes,2013-11-17,7
+338,31,I,Ductal,Chemotherapy,0,0,Suburban,30886,Yes,2008-02-29,8
+339,84,I,Ductal,Hormone Therapy,0,0,Suburban,32866,No,2016-01-30,5
+340,40,III,Ductal,Chemotherapy,0,1,Suburban,86624,Yes,2000-04-30,7
+341,50,III,Mixed,Chemotherapy,1,1,Suburban,88899,Yes,2020-09-04,8
+342,72,III,Mixed,Radiation,0,0,Suburban,52792,Yes,2004-06-25,9
+343,81,II,Lobular,Radiation,0,1,Urban,29764,Yes,2019-09-23,3
+344,76,I,Lobular,Chemotherapy,0,0,Urban,62727,Yes,2014-12-13,3
+345,84,I,Lobular,Chemotherapy,0,0,Urban,98471,Yes,2013-12-21,4
+346,73,II,Ductal,Chemotherapy,1,0,Urban,28068,Yes,2002-07-13,5
+347,26,II,Ductal,Radiation,1,0,Urban,27295,Yes,2001-10-06,10
+348,25,II,Mixed,Radiation,1,0,Urban,61160,Yes,2005-07-25,1
+349,72,II,Ductal,Surgery,1,1,Suburban,31390,Yes,2007-07-24,7
+350,36,IV,Ductal,Surgery,1,0,Urban,40131,Yes,2019-03-05,9
+351,29,II,Ductal,Chemotherapy,0,1,Rural,95969,Yes,2005-08-30,8
+352,61,II,Lobular,Hormone Therapy,1,0,Urban,35038,Yes,2000-08-29,5
+353,56,III,Lobular,Hormone Therapy,1,0,Urban,72327,Yes,2018-01-24,4
+354,83,II,Mixed,Radiation,1,0,Suburban,97064,Yes,2019-06-16,7
+355,79,III,Ductal,Radiation,0,0,Suburban,41281,No,2007-04-22,5
+356,33,III,Ductal,Radiation,1,0,Urban,74189,Yes,2017-08-25,7
+357,65,IV,Mixed,Chemotherapy,1,1,Rural,68511,Yes,2015-08-25,1
+358,59,I,Ductal,Hormone Therapy,1,0,Rural,28605,Yes,2002-03-13,1
+359,43,IV,Ductal,Surgery,0,0,Urban,21381,Yes,2013-11-07,10
+360,72,II,Lobular,Chemotherapy,0,0,Urban,86634,Yes,2011-05-27,3
+361,40,II,Mixed,Surgery,0,0,Rural,39810,Yes,2014-05-15,2
+362,27,II,Mixed,Surgery,1,0,Suburban,44322,No,2000-07-14,2
+363,44,IV,Mixed,Chemotherapy,1,0,Suburban,61869,Yes,2005-12-27,7
+364,48,II,Mixed,Surgery,0,0,Rural,52955,Yes,2009-08-16,10
+365,78,II,Lobular,Hormone Therapy,0,0,Urban,81388,Yes,2006-05-19,2
+366,80,III,Lobular,Surgery,1,0,Urban,30207,Yes,2006-06-17,4
+367,57,II,Ductal,Hormone Therapy,0,0,Urban,87628,No,2013-04-03,2
+368,48,I,Ductal,Hormone Therapy,0,0,Suburban,48220,Yes,2009-11-15,6
+369,76,I,Ductal,Hormone Therapy,1,0,Suburban,94085,Yes,2015-11-02,8
+370,35,I,Ductal,Radiation,0,1,Suburban,42031,No,2000-10-03,10
+371,73,I,Lobular,Surgery,1,0,Urban,90721,Yes,2000-03-01,4
+372,32,I,Mixed,Chemotherapy,1,0,Urban,91312,Yes,2009-04-13,5
+373,60,III,Lobular,Chemotherapy,1,0,Urban,79766,Yes,2005-03-28,4
+374,62,I,Ductal,Surgery,0,1,Suburban,32449,Yes,2016-12-17,3
+375,64,II,Lobular,Radiation,0,0,Suburban,76699,Yes,2010-10-02,5
+376,44,III,Mixed,Radiation,1,0,Urban,66092,Yes,2017-03-28,9
+377,59,II,Mixed,Hormone Therapy,1,1,Rural,83671,Yes,2016-01-25,8
+378,72,III,Lobular,Surgery,1,0,Urban,30350,Yes,2014-11-13,8
+379,49,I,Lobular,Surgery,0,0,Rural,88487,Yes,2016-03-30,8
+380,59,I,Lobular,Chemotherapy,1,0,Urban,37622,Yes,2007-02-04,8
+381,49,I,Ductal,Surgery,1,0,Suburban,90263,Yes,2001-07-20,7
+382,53,I,Lobular,Radiation,1,1,Urban,73117,Yes,2010-10-10,8
+383,42,II,Lobular,Surgery,1,1,Rural,78394,Yes,2020-09-08,8
+384,70,I,Lobular,Chemotherapy,1,0,Urban,43782,Yes,2004-04-20,8
+385,42,I,Mixed,Hormone Therapy,1,0,Urban,48454,Yes,2012-11-30,10
+386,26,I,Mixed,Chemotherapy,1,0,Urban,87904,Yes,2016-10-04,7
+387,78,II,Ductal,Chemotherapy,1,0,Urban,35592,No,2003-04-15,1
+388,59,II,Ductal,Hormone Therapy,0,1,Urban,42173,Yes,2020-08-12,4
+389,40,II,Mixed,Chemotherapy,1,0,Rural,53204,Yes,2012-01-27,4
+390,65,II,Mixed,Chemotherapy,1,0,Urban,55596,Yes,2007-10-25,5
+391,60,III,Mixed,Surgery,1,1,Suburban,54324,Yes,2007-12-05,10
+392,57,I,Lobular,Surgery,1,0,Suburban,81202,Yes,2017-01-31,6
+393,28,III,Lobular,Hormone Therapy,1,0,Suburban,50750,No,2019-03-26,4
+394,57,III,Mixed,Surgery,0,0,Urban,96112,Yes,2003-05-21,2
+395,38,I,Lobular,Surgery,0,1,Urban,36566,Yes,2019-02-02,6
+396,45,III,Lobular,Chemotherapy,0,0,Suburban,27190,Yes,2000-05-16,8
+397,72,IV,Ductal,Radiation,1,0,Rural,58333,Yes,2002-10-26,8
+398,44,I,Mixed,Surgery,1,0,Urban,21589,Yes,2019-08-03,7
+399,80,II,Mixed,Radiation,1,0,Urban,45235,Yes,2005-11-26,6
+400,32,III,Lobular,Surgery,1,1,Urban,20159,Yes,2007-02-07,2
